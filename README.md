@@ -1,4 +1,4 @@
 # Test
-pierwsza linijka
+pierwsza linijka.
 druga linijka
 trzecia linijka
